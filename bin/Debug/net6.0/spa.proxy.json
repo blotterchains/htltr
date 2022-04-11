@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44417",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/home/wizif/projects/hotel-tour-project/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
